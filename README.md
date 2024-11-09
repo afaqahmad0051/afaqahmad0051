@@ -87,6 +87,11 @@
 
 <br/>  
 
+<div align="center">
+
+  ![snake gif](https://github.com/afaqahmad0051/afaqahmad0051/blob/output/github-snake-dark.svg)
+
+</div>
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=afaqahmad0051&show_icons=true&count_private=true&hide_border=true" align="left" />  
@@ -98,25 +103,6 @@
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=afaqahmad0051&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-
-  ![snake gif](https://github.com/afaqahmad0051/afaqahmad0051/blob/output/github-snake-dark.svg)
-
-</div>
 <br />
 
 ----
