@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on refining my skills across the full-stack spectrum, diving into modern frameworks, and enhancing my knowledge of software architecture.<br>🌱 I’m currently learning modern frameworks, Linux systems, and DevOps practices to enhance my full-stack capabilities.<br>📈 I’m exploring strategies for improving application scalability and performance.<br>🔍 I’m interested in engaging with projects that leverage cutting-edge technologies and best practices.<br>💬 Ask me about Laravel, modern tech stacks, software architecture, and anything related to web development.<br>📫 How to reach me afaqa0051@gmail.com<br>
+🔭 I’m currently working on refining my skills across the full-stack spectrum, diving into modern frameworks, and enhancing my knowledge of software architecture.<br>🌱 I’m currently learning modern frameworks, Linux systems, and DevOps practices to enhance my full-stack capabilities.<br>📈 I’m exploring strategies for improving application scalability and performance.<br>🔍 I’m interested in engaging with projects that leverage cutting-edge technologies and best practices.<br>💬 Ask me about Laravel, modern tech stacks, software architecture, and anything related to web development.<br>📫 How to reach me hi@afaqahmad.me<br>
 
 
 ## 🌐 Socials:
