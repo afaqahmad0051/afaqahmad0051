@@ -1,13 +1,6 @@
 [![Profile Banner](./image.png)](https://afaqahmad.me)
 
-# Hi 👋 My name is Afaq Ahmad
-
-## Full-Stack Developer
-
-
 🔭 I’m currently working on refining my skills across the full-stack spectrum, diving into modern frameworks, and enhancing my knowledge of software architecture.<br>🌱 I’m currently learning modern frameworks, Linux systems, and DevOps practices to enhance my full-stack capabilities.<br>📈 I’m exploring strategies for improving application scalability and performance.<br>🔍 I’m interested in engaging with projects that leverage cutting-edge technologies and best practices.<br>💬 Ask me about Laravel, modern tech stacks, software architecture, and anything related to web development.<br>📫 How to reach me hi@afaqahmad.me<br>
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=afaqahmad0051&theme=nord&margin-w=15&margin-h=15&column=6&&no-bg=true)
 
 ![Profile Visitors](https://komarev.com/ghpvc/?username=afaqahmad0051&color=blue&label=Profile+Visitors)
 
@@ -22,6 +15,7 @@
 [![afaqahmad0051's GitHub stats](https://github-readme-stats.vercel.app/api?username=afaqahmad0051&show_icons=true&hide=&count_private=true&title_color=00b8db&text_color=ffffff&icon_color=00b8db&bg_color=101828&hide_border=true&show_icons=true)](http://www.github.com/afaqahmad0051)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=afaqahmad0051&theme=gruvbox&hide_border=true&background=101828&stroke=FFFFFF&ring=00b8db&fire=00b8db&currStreakNum=ffffff&currStreakLabel=00b8db&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=afaqahmad0051&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 
 [![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=afaqahmad0051&bg_color=101828&color=ffffff&line=00b8db&point=ffffff&area_color=101828&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](http://www.github.com/afaqahmad0051)
 
