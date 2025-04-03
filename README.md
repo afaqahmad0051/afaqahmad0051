@@ -4,7 +4,6 @@
 
 ![Profile Visitors](https://komarev.com/ghpvc/?username=afaqahmad0051&color=blue&label=Profile+Visitors)
 
-
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -12,27 +11,15 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afaqahmad0051&langs_count=6&layout=compact&title_color=00b8db&text_color=ffffff&icon_color=00b8db&bg_color=101828&hide_border=true&locale=en&custom_title=Top%20Languages)](http://www.github.com/afaqahmad0051)
 
-[![afaqahmad0051's GitHub stats](https://github-readme-stats.vercel.app/api?username=afaqahmad0051&show_icons=true&hide=&count_private=true&title_color=00b8db&text_color=ffffff&icon_color=00b8db&bg_color=101828&hide_border=true&show_icons=true)](http://www.github.com/afaqahmad0051)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=afaqahmad0051&theme=gruvbox&hide_border=true&background=101828&stroke=FFFFFF&ring=00b8db&fire=00b8db&currStreakNum=ffffff&currStreakLabel=00b8db&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=afaqahmad0051&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+[![afaqahmad0051's GitHub stats](https://github-readme-stats.vercel.app/api?username=afaqahmad0051&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=&count_private=true&title_color=00b8db)](http://www.github.com/afaqahmad0051)
 
 [![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=afaqahmad0051&bg_color=101828&color=ffffff&line=00b8db&point=ffffff&area_color=101828&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](http://www.github.com/afaqahmad0051)
-
-
-# 💫 About Me:
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afaq-ahmad12)
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
 <div align="center">
-
-
   ![snake gif](https://github.com/afaqahmad0051/afaqahmad0051/blob/output/github-snake-dark.svg)
 </div>
 
