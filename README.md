@@ -9,7 +9,7 @@
 
 ### Github Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afaqahmad0051&langs_count=6&layout=compact&title_color=00b8db&text_color=ffffff&icon_color=00b8db&bg_color=101828&hide_border=true&locale=en&custom_title=Top%20Languages)](http://www.github.com/afaqahmad0051)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afaqahmad0051&langs_count=6&layout=compact&theme=dark&title_color=00b8db&text_color=ffffff&icon_color=00b8db&bg_color=101828&hide_border=true&locale=en&custom_title=Top%20Languages)](http://www.github.com/afaqahmad0051)
 
 [![afaqahmad0051's GitHub stats](https://github-readme-stats.vercel.app/api?username=afaqahmad0051&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=&count_private=true&title_color=00b8db)](http://www.github.com/afaqahmad0051)
 
