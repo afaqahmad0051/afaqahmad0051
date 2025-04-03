@@ -13,7 +13,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,tailwind,bootstrap,react,php,laravel,mysql,git,github,postman,ubuntu,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts,js,jquery,tailwind,bootstrap,react,php,laravel,mysql,git,github,postman,ubuntu,linux)](https://skillicons.dev)
 
 ### Socials
 
