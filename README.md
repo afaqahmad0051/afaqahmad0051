@@ -13,7 +13,7 @@
 
 [![afaqahmad0051's GitHub stats](https://github-readme-stats.vercel.app/api?username=afaqahmad0051&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=&count_private=true&title_color=00b8db)](http://www.github.com/afaqahmad0051)
 
-[![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=afaqahmad0051&bg_color=101828&color=ffffff&line=00b8db&point=ffffff&area_color=101828&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](http://www.github.com/afaqahmad0051)
+[![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=afaqahmad0051&bg_color=151515&color=ffffff&line=00b8db&point=ffffff&area_color=151515&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](http://www.github.com/afaqahmad0051)
 
 
 ## 🌐 Socials:
