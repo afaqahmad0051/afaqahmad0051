@@ -1,5 +1,66 @@
-# 💫 About Me:
+[![Profile Banner](./linkedin-banner.jpg)](https://afaqahmad.me)
+
+# Hi 👋 My name is Afaq Ahmad
+
+## Full-Stack Developer
+
+
 🔭 I’m currently working on refining my skills across the full-stack spectrum, diving into modern frameworks, and enhancing my knowledge of software architecture.<br>🌱 I’m currently learning modern frameworks, Linux systems, and DevOps practices to enhance my full-stack capabilities.<br>📈 I’m exploring strategies for improving application scalability and performance.<br>🔍 I’m interested in engaging with projects that leverage cutting-edge technologies and best practices.<br>💬 Ask me about Laravel, modern tech stacks, software architecture, and anything related to web development.<br>📫 How to reach me hi@afaqahmad.me<br>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=afaqahmad0051&theme=nord&margin-w=15&margin-h=15&column=6&&no-bg=true)
+
+![Profile Visitors](https://komarev.com/ghpvc/?username=afaqahmad0051&color=blue&label=Profile+Visitors)
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,tailwind,bootstrap,react,php,laravel,mysql,git,github,postman,ubuntu,linux)](https://skillicons.dev)
+
+### Socials
+
+<p align="left"> 
+  <a href="https://www.dev.to/itxSaaad" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
+  </a> 
+  <a href="https://discord.com/users/itxSleipnir" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+  </a> 
+  <a href="https://www.github.com/itxSaaad" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a> 
+  <a href="http://www.instagram.com/m.saad_45" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  </a> 
+  <a href="https://www.linkedin.com/in/itxSaaad" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a> 
+  <a href="https://www.stackoverflow.com/users/19485214/muhammad-saad" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.twitter.com/itxSaaad" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  </a> 
+  <a href="https://www.twitch.tv/itxSaaad" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
+  </a>
+</p>
+
+### Github Stats
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itxSaaad&langs_count=6&layout=compact&title_color=00b8db&text_color=ffffff&icon_color=00b8db&bg_color=101828&hide_border=true&locale=en&custom_title=Top%20Languages)](http://www.github.com/itxSaaad)
+
+[![itxSaaad's GitHub stats](https://github-readme-stats.vercel.app/api?username=itxSaaad&show_icons=true&hide=&count_private=true&title_color=00b8db&text_color=ffffff&icon_color=00b8db&bg_color=101828&hide_border=true&show_icons=true)](http://www.github.com/itxSaaad)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itxSaaad&theme=gruvbox&hide_border=true&background=101828&stroke=FFFFFF&ring=00b8db&fire=00b8db&currStreakNum=ffffff&currStreakLabel=00b8db&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
+
+[![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=itxSaaad&bg_color=101828&color=ffffff&line=00b8db&point=ffffff&area_color=101828&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](http://www.github.com/itxSaaad)
+
+### HacktoberFest 2022 Badges
+
+[![@itxsaaad's Holopin board](https://holopin.me/itxsaaad)](https://holopin.io/@itxsaaad)
+
+
+
+# 💫 About Me:
 
 
 ## 🌐 Socials:
