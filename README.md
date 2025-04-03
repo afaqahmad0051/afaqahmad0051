@@ -13,25 +13,14 @@
 
 [![afaqahmad0051's GitHub stats](https://github-readme-stats.vercel.app/api?username=afaqahmad0051&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=&count_private=true&title_color=00b8db)](http://www.github.com/afaqahmad0051)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=afaqahmad0051&theme=dark&hide_border=false)<br/>
+
 [![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=afaqahmad0051&bg_color=151515&color=ffffff&line=00b8db&point=ffffff&area_color=151515&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](http://www.github.com/afaqahmad0051)
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afaq-ahmad12)
-
 <div align="center">
+  
   ![snake gif](https://github.com/afaqahmad0051/afaqahmad0051/blob/output/github-snake-dark.svg)
 </div>
 
-
-![](https://github-readme-stats.vercel.app/api?username=afaqahmad0051&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=afaqahmad0051&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=afaqahmad0051&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=afaqahmad0051&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=afaqahmad0051&icon=10&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
