@@ -1,4 +1,4 @@
-[![Profile Banner](./linkedin-banner.jpg)](https://afaqahmad.me)
+[![Profile Banner](./image.png)](https://afaqahmad.me)
 
 # Hi 👋 My name is Afaq Ahmad
 
